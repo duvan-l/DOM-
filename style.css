@@ -126,7 +126,7 @@ li.item:hover a{
   transition: var(--transition);
 }
 
-.button__text{}
+/* .button__text{} */
 
 .button__icon{
   font-size: 1.4rem;
